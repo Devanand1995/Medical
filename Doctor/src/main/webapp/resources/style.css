@@ -1,0 +1,26 @@
+h2 {
+	text-align: center;
+}
+.pt{
+	padding-top:5%;
+}
+nav {
+	background-color: #4c4ccc59;
+}
+
+.form-horizontal {
+	padding-left: 7%;
+	padding-top: 2%;
+	padding-right: 7%;
+	padding-bottom: 7%;
+	text-align: initial;
+	margin-left: 9%;
+    margin-right: 8%;
+	background: #f0f8ff82;
+}
+
+.form-horizontal .control-label {
+	padding-top: 5px;
+	margin-bottom: 0;
+	text-align: initial;
+}
